@@ -1,5 +1,5 @@
 # Json-Test
-Load and parse JSON data in for Android and iOS.
+Using Flutter load and parse JSON data for Android and iOS.
 
 <img src="/ss/ss1.png" width="320"> <img src="/ss/ss2.png" width="320"> 
 
